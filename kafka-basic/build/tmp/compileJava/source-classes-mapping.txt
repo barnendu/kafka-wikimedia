@@ -1,0 +1,2 @@
+log/console/kafka/ProducerDemo.java
+ log.console.kafka.ProducerDemo
