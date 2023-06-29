@@ -1,4 +1,5 @@
 rootProject.name = 'kafka-pilot'
 include 'kafka-basic'
 include 'kafka-wikimedia-producer'
+include 'kafka-consumer-opensearch'
 
